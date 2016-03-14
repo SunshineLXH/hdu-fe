@@ -746,7 +746,7 @@ a {
 	text-decoration: none;
 	width: 2em;
 }
-.fb:before, .fb:after {
+.fa-icon:before, .fa-icon:after {
 	left: 0;
 	position: absolute;
 	text-align: center;
