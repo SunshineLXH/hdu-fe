@@ -1,0 +1,218 @@
+[33mcommit edc6ecfb44c1a88ba32baa445c07b8234563073b[m
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 22:15:05 2016 +0800
+
+    update
+
+[33mcommit d9c72a1855602d879e292988fbb62397e7dc5cab[m
+Merge: aa8eef3 08ca246
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 22:11:13 2016 +0800
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 08ca246bc641f221d4f7bf6f898438d5c111ce77[m
+Merge: 017feca 5922e15
+Author: joseph19921003 <qiyiyan0911@gmail.com>
+Date:   Sun Mar 13 22:07:06 2016 +0800
+
+    Merge pull request #5 from zyw0228/master
+    
+    内容修改
+
+[33mcommit aa8eef351ecad60c914d66f91c20857a507bf30d[m
+Merge: 457eaa5 017feca
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 22:02:55 2016 +0800
+
+    Merge remote-tracking branch 'upstream/master'
+
+[33mcommit 457eaa52cf66f91c6a2c292b040ac589976a3bf9[m
+Merge: a32b44e e77c5ed
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 21:46:34 2016 +0800
+
+    update
+
+[33mcommit e77c5ed4010c3d9df333fd329f3177ad68c4b85d[m
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 21:43:51 2016 +0800
+
+    remove setOver() and setOut()
+
+[33mcommit a32b44e76e4ca27fd783a5792b804451a251247c[m
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 21:38:32 2016 +0800
+
+    remove setOver() and setOut()
+
+[33mcommit 017fecab75caf5fb805683109d9364effce72946[m
+Merge: a29a68a 61d5887
+Author: joseph19921003 <qiyiyan0911@gmail.com>
+Date:   Sun Mar 13 20:27:49 2016 +0800
+
+    Merge pull request #4 from SunshineLXH/dev
+    
+    图片轮播基本完成
+
+[33mcommit 0d64b6c402c0a985e452ab22d5295168df25787d[m
+Merge: 61d5887 7057cc8
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 19:59:13 2016 +0800
+
+    Merge https://github.com/SunshineLXH/hdu-fe
+
+[33mcommit 7057cc8427cc237aaf397783cbba008a41d50866[m
+Merge: 3662ffd a29a68a
+Author: SunshineLXH <olixiaohui@163.com>
+Date:   Sun Mar 13 19:58:20 2016 +0800
+
+    Merge pull request #1 from joseph19921003/master
+    
+    update
+
+[33mcommit 61d5887546ec544481342268b39874b1be4e5562[m
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 19:28:54 2016 +0800
+
+    carousel and footer
+
+[33mcommit 5922e15ea2c77d3f6b6ad4b331dfe6c8baa2d64b[m
+Merge: 216a0ec a29a68a
+Author: zyw0228 <zou_ya_wen@163.com>
+Date:   Sun Mar 13 19:04:46 2016 +0800
+
+    Merge pull request #3 from joseph19921003/master
+    
+    3.13
+
+[33mcommit c1b578bc063a6b49b8eaa22ed8f00461c4e53381[m
+Author: SunshineLXH <463027965@qq.com>
+Date:   Sun Mar 13 18:17:25 2016 +0800
+
+    carousel and footer
+
+[33mcommit a29a68a2e42d1e71a3ae348ac30d03c242702558[m
+Author: qi_yiyan <qiyiyan0911@163.com>
+Date:   Sat Mar 12 19:41:23 2016 +0800
+
+    主页全局font-family设定
+
+[33mcommit c215c48889e97585014a5d6b73e5fd465f19c6c6[m
+Merge: 0af8500 216a0ec
+Author: joseph19921003 <qiyiyan0911@gmail.com>
+Date:   Sat Mar 12 19:33:44 2016 +0800
+
+    Merge pull request #3 from zyw0228/master
+    
+    内容模块
+
+[33mcommit 216a0ece323be98ac2bf8db6af8af1a226f5111b[m
+Author: zywpurple <zou_ya_wen@163.com>
+Date:   Sat Mar 12 18:01:19 2016 +0800
+
+    内容模块大部分完成
+
+[33mcommit 7a7a4393c183086fa701a873f93665520c25a80f[m
+Author: zyw0228 <zou_ya_wen@163.com>
+Date:   Fri Mar 11 17:52:03 2016 +0800
+
+    内容上面静态模块
+
+[33mcommit 6fa0787aaa4792981ca11ea749378cb2a0e0d933[m
+Merge: 8c39012 f183571
+Author: zyw0228 <zou_ya_wen@163.com>
+Date:   Fri Mar 11 13:34:16 2016 +0800
+
+    Merge branch 'master' of https://github.com/zyw0228/hdu-fe
+
+[33mcommit 8c390123782a6ac1d79c7a05e19830a30eb862a3[m
+Author: zyw0228 <zou_ya_wen@163.com>
+Date:   Fri Mar 11 13:34:04 2016 +0800
+
+    3.11
+
+[33mcommit f18357153ae26770ad30f42819cbb18b2e21e308[m
+Merge: c65b8f5 0af8500
+Author: zyw0228 <zou_ya_wen@163.com>
+Date:   Fri Mar 11 13:28:01 2016 +0800
+
+    Merge pull request #2 from joseph19921003/master
+    
+    3.11
+
+[33mcommit 0af85007a4db0a90d92e0d710b67c4d07ed0f841[m
+Author: qi_yiyan <qiyiyan0911@163.com>
+Date:   Thu Mar 10 19:42:42 2016 +0800
+
+    readme修改
+
+[33mcommit ea9280cf0e9c709e03d21f3f07d80fa1aca64565[m
+Merge: ece879c c65b8f5
+Author: joseph19921003 <qiyiyan0911@gmail.com>
+Date:   Thu Mar 10 19:32:43 2016 +0800
+
+    Merge pull request #2 from zyw0228/master
+    
+    content上面的3张图
+
+[33mcommit ece879cadba5f9987abaa88216d410e5751cb017[m
+Author: qi_yiyan <qiyiyan0911@163.com>
+Date:   Thu Mar 10 19:24:41 2016 +0800
+
+    首页基本完成
+
+[33mcommit 057462a6e9bb28274425a8a6fc5b8cbcd53c2b3d[m
+Merge: 93f399b b189a08
+Author: joseph19921003 <qiyiyan0911@gmail.com>
+Date:   Thu Mar 10 16:27:57 2016 +0800
+
+    Merge pull request #1 from SunshineLXH/dev
+    
+    新增选择器函数
+
+[33mcommit b189a08557bf5429ff2ee69109e6a0f6ffdab5f5[m
+Author: SunshineLXH <463027965@qq.com>
+Date:   Thu Mar 10 15:25:23 2016 +0800
+
+    add
+
+[33mcommit c65b8f5160fd92172a352473fd2474a7b6a47eab[m
+Author: zyw0228 <zou_ya_wen@163.com>
+Date:   Thu Mar 10 13:42:31 2016 +0800
+
+    内容上面的3张图
+
+[33mcommit 48a4c065ff939f9d917d72ff37e570549febaa0c[m
+Merge: 3662ffd 93f399b
+Author: zyw0228 <zou_ya_wen@163.com>
+Date:   Thu Mar 10 09:18:29 2016 +0800
+
+    Merge pull request #1 from joseph19921003/master
+    
+    新增ClassList函数模拟classList属性
+
+[33mcommit 93f399be9c534dd762eea9e448bfaf2d90632b51[m
+Author: qi_yiyan <qiyiyan0911@163.com>
+Date:   Wed Mar 9 17:00:52 2016 +0800
+
+    新增ClassList函数模拟classList属性
+
+[33mcommit 3662ffd5a1bd5448153a4da0529f1cb3a40c78f0[m
+Merge: b3e41a1 704c902
+Author: qi_yiyan <qiyiyan0911@163.com>
+Date:   Wed Mar 9 10:52:17 2016 +0800
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit b3e41a14d592fcb4e68f5bfae6aa9db8ad220193[m
+Author: qi_yiyan <qiyiyan0911@163.com>
+Date:   Wed Mar 9 10:48:08 2016 +0800
+
+    结构搭建
+
+[33mcommit 704c9022ad629313ccb5761f6a1db1ab4f89d37c[m
+Author: joseph19921003 <qiyiyan0911@gmail.com>
+Date:   Mon Mar 7 14:34:03 2016 +0800
+
+    Create README.md
